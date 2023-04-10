@@ -1,0 +1,461 @@
+h1 {
+    color:aliceblue;
+    position: relative;
+    top: -28px;
+    left:20px;
+    font-family: "Open Sans", sans-serif;
+}
+.SITEHEADERDEF {
+    background-color:darkslategray;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    width:100%
+}
+html, body {
+    margin: 0px;
+    padding: 0;
+    overflow-y: visible;
+}
+
+.site-navigation ul,
+.site-navigation li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position:relative;
+    left:70px;
+    top:-52px
+}
+.site-navigation li {
+    display: inline-block;
+    margin: 2em 2em 2em 2em ;
+    font-family: "Open Sans", sans-serif;
+    font-size:15px ;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav{
+    position:relative;
+    top:-85px;
+
+    text-align:right;
+}
+.button {
+    border-radius: 50px;
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position:relative;
+    left:100px;
+    top:-52px;
+    cursor: pointer;
+  }
+
+h2 {
+    color:aliceblue;
+    position: relative;
+    top: -28px;
+    left:20px;
+    font-family: "Open Sans", sans-serif;
+    font-size:50px;
+}
+.headingp1{
+    color:rgb(0, 0, 0);
+    font-size: 70px;
+}
+.priceheading{
+    width:700px;
+    text-align:center;
+    position:relative;
+    left:380px
+}
+.heading4p1{
+    color:darkslategray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left:20px;
+    top:-358px
+}
+.buttonp1{
+    border-radius: 50px;
+    background-color: darkslategray;
+    border: 4px solid black;
+    border-color: darkslategray;
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position:relative;
+    left:164px;
+    top:-73px;
+    text-align:center;
+    width:300px;
+    cursor: pointer;
+}
+.buttonp1:hover {
+    background-color:darkslategray;
+    color: white;
+    transform: scale(1.05);
+  }
+  .buttonp2{
+    border-radius: 50px;
+    background-color: #e6fafa;
+    border: 4px solid black;
+    border-color: rgb(40, 112, 228);
+    color: rgb(40, 112, 228);
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position:relative;
+    left:607px;
+    top:-133px;
+    text-align:center;
+    width:300px;
+    cursor: pointer;
+}
+.buttonp2:hover {
+    background-color:rgb(40, 112, 228);
+    color: white;
+    transform: scale(1.05);
+  }
+  .buttonp3{
+    border-radius: 50px;
+    background-color: #e6fafa;
+    border: 4px solid black;
+    border-color: rgb(228, 93, 40);
+    color: rgb(228, 93, 40);
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position:relative;
+    left:1050px;
+    top:-196px;
+    text-align:center;
+    width:300px;
+    cursor: pointer;
+}
+.buttonp3:hover {
+    background-color:rgb(228, 93, 40);
+    color: white;
+    transform: scale(1.05);
+  }
+
+.indivimg{
+    position: relative;
+    top:-100px;
+    left:164px;
+    border-radius:50px;
+    box-shadow: 4px 4px 4px 4spx rgb(116, 116, 116);
+    margin-bottom: -200px;
+   
+}
+.individualpcon{
+    margin-bottom:-600px;
+}
+.sign-in-box{
+    position:relative;
+    left:750px;
+    width: 350px;
+    height:430px;
+    top:175px;
+    padding: 30px;
+    border: 8px black; 
+    margin:0;
+    background-color: rgba(35, 57, 57, 0);
+    opacity:80% ;
+    border-radius:50px;
+    box-shadow: 5px 5px 8px 8px rgba(0, 0, 0, 0.333);
+    margin:0px;
+}
+.heading3pp1{
+    color:#96ffff;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    top:-6px;
+    left: 10px
+}
+.heading4pp1{
+    color:#e6fafa;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position:relative;
+    top:-40px;
+    left: 10px
+}
+ul.listbusiness{
+    list-style:disc;
+    color:#e6fafa;
+    font-size: 20px;
+    left:10px;
+    top:-70px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative
+}
+.contentbus{
+    color:#96ffff;
+    font-size: 26px;
+    top:-50px;
+    left:10px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contentsus{
+    color:#96ffff;
+    font-size: 26px;
+    top:-180px;
+    left:10px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contentsus2{
+    color:#96ffff;
+    font-size: 26px;
+    top:-210px;
+    left:10px;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttonperf{
+    border-radius: 50px;
+    background-color: darkslategray;
+    border: 2px solid rgb(255, 255, 255);
+    border-color:white;
+    color: white;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    position:relative;
+    left:25px;
+    top:-220px;
+    width:300px;
+    opacity:80%;
+    cursor: pointer;
+}
+.buttonperf:hover{
+    transform: scale(1.1);
+    color:darkslategray;
+    background-color: white;
+}
+#business1img{
+    margin: 0px;
+    position: relative;
+    left:140px;
+    top:-427px;
+}
+.allplansdiv{
+    top:-300px;
+    left:240px;
+    position: relative;
+    width:400px
+}
+.journey_start{
+    position: relative;
+    right:0px;
+    top:-100px;
+    background-color:darkslategray;
+    padding-bottom: -50px;
+    padding-top: 10px;
+    margin-bottom:-100px;
+}
+.journey_start_h{
+    left:100px;
+    font-size: 40px;
+    top:30px
+}
+.buttonjourney{
+    border-radius: 50px;
+    background-color: darkslategray;
+    border: 2px solid black;
+    border-color: rgb(165, 58, 58);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position:relative;
+    left:1250px;
+    top:-53px;
+    text-align:center;
+    cursor: pointer;
+}
+.buttonjourney:hover {
+    background-color:rgb(165, 58, 58);
+    color: white;
+  }
+  .content_footer{
+    background-color:#1a1e2b ;
+    color:aliceblue;
+    padding:100px;
+    padding-top:200px;
+}
+#selectedn{
+    color:rgb(255, 78, 78)
+}
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
+}
+
+#footerlogo{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:3230px;
+    left:20px;
+}
+#footercontentabout{
+    position: absolute;
+    top:3345px;
+    left:150px;
+}
+#footerhead{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:-5px
+}
+#footercontentt{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:-25px
+}
+#footerservices{
+
+    width:300px;
+    position:relative;
+    left:558px;
+    margin-bottom: -150px;
+    top:-130px
+}
+#footerservicesdemo{
+
+    width:300px;
+    position:relative;
+    left:488px;
+    margin-bottom: -150px;
+    top:-130px
+}
+#footservice_button1
+{
+    
+    top: -1032px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button1:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#footservice_button2
+{
+    position: relative;
+    top: 10px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button2:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#footservice_button3
+{
+    position: relative;
+    top: 20px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button3:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#contactusfooter{
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    left:1000px;
+    margin-bottom: -100px;
+    top:-150px;
+    font-size:18px
+}
+#telegram{
+    position: relative;
+    left:30px
+}
+#footerlogodemo{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:1530px;
+    left:20px;
+}
+#footercontentaboutdemo{
+    position: absolute;
+    top:1645px;
+    left:150px;
+}
+#footerheaddemo{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:-5px
+}
+#footercontenttdemo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:-25px
+}

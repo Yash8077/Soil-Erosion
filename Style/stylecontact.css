@@ -1,0 +1,487 @@
+
+h1 {
+    color:aliceblue;
+    position: relative;
+    top: -28px;
+    left:20px;
+    font-family: "Open Sans", sans-serif;
+}
+.articles-home-img1 {
+    border-radius:5%;
+    position: relative;
+    left:140px;
+    top:-100px;
+}
+.articles-home-img1:hover{
+    transform: scale(1.03);
+}
+.articles-home-img2:hover{
+    transform: scale(1.03);
+}
+.articles-home-img3:hover{
+    transform: scale(1.03);
+}
+.articles-home-img2 {
+    border-radius:5%;
+    position: relative;
+    left:180px;
+    top:-100px;
+}
+.articles-home-img3 {
+    border-radius:5%;
+    position: relative;
+    left:230px;
+    top:-100px;
+}
+.REST {
+    color: black;
+    -webkit-text-stroke-color: aliceblue;
+    -webkit-text-stroke-width: 1.3px;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    font-size: 90px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.SITEHEADER {
+    background-color:rgb(0, 0, 0);
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    width:100%
+}
+
+.SITEHEADERSOCIALM {
+    background-color: rgb(35, 40, 57);
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    width:100%; 
+}
+
+html, body {
+    margin: 0px;
+    padding: 0;
+}
+
+.site-navigation ul,
+.site-navigation li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position:relative;
+    left:70px;
+    top:-52px
+}
+.site-navigation li {
+    display: inline-block;
+    margin: 2em 2em 2em 2em ;
+    font-family: "Open Sans", sans-serif;
+    font-size:15px ;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.nav{
+    position:relative;
+    top:-85px;
+
+    text-align:right;
+}
+.signbutton {
+    border-radius: 50px;
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position:relative;
+    left:100px;
+    top:-52px;
+    cursor:pointer;
+  }
+.signbutton:hover{
+    transform: scale(1.02);
+}
+  .button {
+    border-radius: 50px;
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position:relative;
+    left:100px;
+    top:-52px;
+    cursor:pointer;
+  }
+  .button:hover{
+    transform: scale(1.02);
+}
+h2 {
+    color:aliceblue;
+    font-family: "Open Sans", sans-serif;
+    font-size:50px;
+}
+.content_footer{
+    background-color:#1a1e2b ;
+    color:aliceblue;
+    padding:100px;
+    padding-top:200px;
+}
+.contactushead{
+    text-align: center;
+    position: relative;
+    top:-80px;
+    width:960px;
+    left:280px
+}
+#abouthead1{
+    color:darkslategray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+
+}
+#abouthead2{
+    color:darkslategray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    position: relative;
+    top:-40px;
+}
+#abouthead23{
+    color:darkslategray;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    position: relative;
+    top:-40px;
+    left:150px;
+}
+#abline1{
+    color:darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    position: relative;
+    top:-60px
+}
+#abline2{
+    color:darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    position: relative;
+    top:-80px
+}
+#about1img{
+    position: relative;
+    top:-140px;
+    left:150px;
+    border-radius: 40px;
+}
+.abexp{
+    width:1400px;
+    position: relative;
+    left:150px;
+    top:-40px;
+}
+.journey_start{
+    position: relative;
+    right:0px;
+    background-color:darkslategray;
+    padding-bottom: -50px;
+    padding-top: 10px;
+}
+.journey_start_h{
+    position: relative;
+    left:100px;
+    font-size: 40px;
+    top:30px
+}
+.buttonjourney{
+    border-radius: 50px;
+    background-color: darkslategray;
+    border: 2px solid black;
+    border-color: rgb(165, 58, 58);
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position:relative;
+    left:1250px;
+    top:-53px;
+    text-align:center;
+    cursor:pointer
+}
+.buttonjourney:hover {
+    background-color:rgb(165, 58, 58);
+    color: white;
+  }
+#contactusbutton{
+    color:rgb(255, 78, 78)
+}
+#contactusbutton:hover{
+    transform:scale(1.1);
+}
+.buttonwho {
+    border-radius: 50px;
+    background-color: #e6fafa;
+    border: 2px solid black;
+    border-color: darkslategray;
+    color: darkslategray;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+  } 
+  .buttonwho:hover {
+    background-color: darkslategray;
+    color: aliceblue;
+  }
+  .contactusimgs{
+    left:450px;
+    position: relative;
+    top:-30px;
+  }
+  #contactus_1{
+    border-radius: 40px;
+    position: relative;
+    left:-20px;
+  }
+  #contactus_2{
+    border-radius: 40px;
+    position: relative;
+    left:50px;
+  }
+  .buttoncon1{
+    border-radius: 50px;
+    background-color: rgba(47, 79, 79, 0.697);
+    border: 2px solid rgb(255, 255, 255);
+    border-color:white;
+    color: white;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    position:relative;
+    left:-388px;
+    top:-59px;
+    width:300px;
+    opacity:80%;
+    cursor: pointer;
+}
+.buttoncon1:hover{
+    transform: scale(1.1);
+    color:darkslategray;
+    background-color: rgb(255, 255, 255);
+}
+.buttoncon2{
+    border-radius: 50px;
+    background-color: rgba(40, 112, 228, 0.647);
+    border: 2px solid rgb(255, 255, 255);
+    border-color:white;
+    color: white;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    position:relative;
+    left:115px;
+    top:-110px;
+    width:300px;
+    opacity:80%;
+    cursor: pointer;
+}
+.buttoncon2:hover{
+    transform: scale(1.1);
+    color:rgb(40, 112, 228);
+    background-color: rgb(255, 255, 255);
+}
+.furthercont{
+    text-align: center;
+    top:-60px;
+    position: relative;
+}
+#fcon1{
+    color:darkslategray;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left:20px;
+}
+#fcon12{
+    color:darkslategray;
+    font-size: 24px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:-60px;
+    
+}
+#fcon2{
+    color:darkslategray;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left:20px;
+}
+#fconemail{
+    color:darkslategray
+}
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
+}
+
+#footerlogo{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:3230px;
+    left:20px;
+}
+#footercontentabout{
+    position: absolute;
+    top:3345px;
+    left:150px;
+}
+#footerhead{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:-5px
+}
+#footercontentt{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:-25px
+}
+#footerservices{
+
+    width:300px;
+    position:relative;
+    left:558px;
+    margin-bottom: -150px;
+    top:-130px
+}
+#footerservicesdemo{
+
+    width:300px;
+    position:relative;
+    left:488px;
+    margin-bottom: -150px;
+    top:-130px
+}
+#footservice_button1
+{
+    
+    top: -1032px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button1:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#footservice_button2
+{
+    position: relative;
+    top: 10px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button2:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#footservice_button3
+{
+    position: relative;
+    top: 20px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button3:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#contactusfooter{
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    left:1000px;
+    margin-bottom: -100px;
+    top:-150px;
+    font-size:18px
+}
+#telegram{
+    position: relative;
+    left:30px
+}
+#footerlogodemo{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:1630px;
+    left:20px;
+}
+#footercontentaboutdemo{
+    position: absolute;
+    top:1745px;
+    left:150px;
+}
+#footerheaddemo{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:-5px
+}
+#footercontenttdemo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:-25px
+}

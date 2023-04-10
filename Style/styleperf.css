@@ -1,0 +1,535 @@
+.SITEHEADERPERFM {
+    background-color: rgb(17, 48, 19);
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    width:100%; 
+}
+h2 {
+    color:aliceblue;
+    position: relative;
+    top: -28px;
+    left:20px;
+    font-family: "Open Sans", sans-serif;
+    font-size:50px;
+}
+.site-navigation ul,
+.site-navigation li {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position:relative;
+    left:70px;
+    top:-52px
+}
+.site-navigation li {
+    display: inline-block;
+    margin: 2em 2em 2em 2em ;
+    font-family: "Open Sans", sans-serif;
+    font-size:15px ;
+    text-align: center;
+}
+.nav{
+    position:relative;
+    top:-85px;
+
+    text-align:right;
+}
+.button {
+    border-radius: 50px;
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position:relative;
+    left:100px;
+    top:-52px;
+    cursor:pointer
+  }
+.perfhbg{
+    position:relative;
+    top:-100px;
+    margin-bottom:-1000px;
+}
+.perfh{
+    position:relative;
+    color:rgb(212, 255, 219);
+    left:400px;
+    top:-40px;
+}
+.knowledge{
+    position:relative;
+    left:80px;
+    width: 550px;
+    height:450px;
+    top:0px;
+    padding: 30px;
+    border: 8px black; 
+    margin:0;
+    background-color: rgb(17, 48, 19);
+    opacity:80% ;
+    border-radius:15px;
+    box-shadow: 8px 8px 8px 8px rgb(23, 23, 23);
+    margin:0px;
+    opacity: 80%;
+}
+.knowh{
+    text-align: center;
+    position: relative;
+    left:-5px;
+    top:-40px;
+    color: rgb(97, 165, 84);
+}
+.knowcon{
+    color:aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    position: relative;
+    top:-70px;
+}
+.perfanly{
+    position:relative;
+    left:800px;
+    width: 550px;
+    height:450px;
+    top:-509px;
+    padding: 30px;
+    border: 8px black; 
+    margin:0;
+    background-color: rgb(17, 48, 19);
+    opacity:80% ;
+    border-radius:15px;
+    box-shadow: 8px 8px 8px 8px rgb(23, 23, 23);
+    margin:0px;
+    opacity: 80%;
+}
+.perfanc{
+    text-align: center;
+    position: relative;
+    left:5px;
+    top:-50px;
+   color: rgb(97, 165, 84);
+}
+.perfancon{
+    color:rgb(255, 255, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    position: relative;
+    top:-80px
+}
+.knowledge:hover {
+    transform: scale(1.03); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  .perfanly:hover {
+    transform: scale(1.03); /* (130% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+#knowimg{
+    margin: 0px;
+    position: relative;
+    left:230px
+}
+#perfauimg{
+    margin: 0px;
+    position: relative;
+    left:230px;
+    top:-10px
+}
+
+
+
+
+.buttonperf{
+    border-radius: 50px;
+    background-color: rgb(17, 48, 19);
+    border: 2px solid rgb(255, 255, 255);
+    border-color:white;
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    position:relative;
+    left:600px;
+    top:-400px;
+    width:300px;
+    opacity:80%;
+    cursor:pointer
+}
+.buttonperf:hover{
+    transform: scale(1.03)
+}
+.journey_start_perf{
+    position: relative;
+    right:0px;
+    top:0px;
+    background-color:rgb(17, 48, 19);
+    padding-bottom: -50px;
+    padding-top: 10px;
+}
+.journey_start_h_perf{
+    left:100px;
+    font-size: 40px;
+    top:30px
+}
+.buttonjourneyperf{
+    border-radius: 50px;
+    background-color: rgb(17, 48, 19);
+    border: 2px solid black;
+    border-color:white;
+    color: white;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    position:relative;
+    left:1250px;
+    top:-53px;
+    text-align:center;
+    cursor:pointer
+}
+.buttonjourneyperf:hover{
+    background-color: aliceblue;
+    color: rgb(17, 48, 19);
+    transform: scale(1.2);
+}
+.perfserv{
+    position:relative;
+    left:870px;
+    width: 550px;
+    height:380px;
+    top:-685px;
+    padding: 30px;
+    border: 8px black; 
+    margin:0;
+    background-color: rgb(17, 48, 19);
+    opacity:80% ;
+    border-radius:15px;
+    box-shadow: 8px 8px 8px 8px rgb(23, 23, 23);
+    margin-bottom:-600px;
+    opacity: 80%;
+}
+.perfserv:hover{
+    transform:scale(1.03)
+}
+#services_inc{
+    position:relative;
+    left:430px;
+    width: 550px;
+    height:100px;
+    top:-300px;
+    padding: 30px;
+    border: 8px black; 
+    margin:0;
+    opacity:80% ;
+    border-radius:15px;
+    margin:0px;
+}
+#perftools{
+    color: rgb(17, 48, 19);
+    left:-308px
+}
+.perfservh{
+    color:rgb(35, 57, 57);
+    top:-665px;
+    left:880px;
+    position: relative;
+}
+.perfservhh{
+    width: 550px;
+}
+#perfservc{
+    color:white;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.our-tools-img1{
+    position:relative;
+    left:100px;
+    
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+    margin-bottom:0
+}
+.our-tools-img2{
+    position:relative;
+    left:120px;
+    
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.our-tools-img3{
+    position:relative;
+    left:140px;
+   
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.our-tools-img4{
+    position:relative;
+    left:160px;
+   
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.our-tools-img5{
+    position:relative;
+    left:180px;
+ 
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.our-tools-img6{
+    position:relative;
+    left:200px;
+
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.pour-tools-img4{
+    position:relative;
+    left:-512px;
+    top:240px;
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.pour-tools-img5{
+    position:relative;
+    left:-492px;
+    top:240px;
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.pour-tools-img6{
+    position:relative;
+    left:-472px;
+    top:240px;
+    border-radius:10%;
+    box-shadow: 4px 4px 4px 4px rgb(211, 211, 211);
+}
+.our-tools-img1:hover{
+    transform: scale(1.03);
+}
+.our-tools-img2:hover{
+    transform: scale(1.03);
+
+}.our-tools-img3:hover{
+    transform: scale(1.03);
+}.our-tools-img4:hover{
+    transform: scale(1.03);
+
+}.our-tools-img5:hover{
+    transform: scale(1.03);
+}.our-tools-img6:hover{
+    transform: scale(1.03);
+    
+}
+.pour-tools-img4:hover{
+    transform: scale(1.03);
+
+}.pour-tools-img5:hover{
+    transform: scale(1.03);
+}.pour-tools-img6:hover{
+    transform: scale(1.03);
+    
+}
+.content_footersoc{
+    background-color:#1a1e2b ;
+    color:aliceblue;
+    padding:100px;
+    padding-top:200px;
+    
+}
+.our-tools-img{
+    margin:0px;
+    position: relative;
+    top:-280px
+}
+h1 {
+    color:aliceblue;
+    position: relative;
+    top: -28px;
+    left:20px;
+    font-family: "Open Sans", sans-serif;
+}
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+html, body {
+    margin: 0px;
+    padding: 0;
+}
+.TaleSpin{
+    position: absolute;
+    top:-70px;
+    left:-40px;
+    margin-right: 0px;
+    width:400px
+}
+#footerlogo{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:3230px;
+    left:20px;
+}
+#footercontentabout{
+    position: absolute;
+    top:3345px;
+    left:150px;
+}
+#footerhead{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:-5px
+}
+#footercontentt{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:-25px
+}
+#footerservices{
+
+    width:300px;
+    position:relative;
+    left:558px;
+    margin-bottom: -150px;
+    top:-130px
+}
+#footerservicesdemo{
+
+    width:300px;
+    position:relative;
+    left:488px;
+    margin-bottom: -150px;
+    top:-130px
+}
+#footservice_button1
+{
+    
+    top: -1032px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button1:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#footservice_button2
+{
+    position: relative;
+    top: 10px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button2:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#footservice_button3
+{
+    position: relative;
+    top: 20px;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 50px;
+    font-family: Arial;
+    border-color:white;
+    background-color: #1a1e2b ;
+    color: white;
+    cursor: pointer;
+    width:220px
+}
+#footservice_button3:hover{
+    background-color:rgb(165, 58, 58);
+    color: white;
+}
+#contactusfooter{
+    font-family: Arial, Helvetica, sans-serif;
+    position:relative;
+    left:1000px;
+    margin-bottom: -100px;
+    top:-150px;
+    font-size:18px
+}
+#telegram{
+    position: relative;
+    left:30px
+}
+#footerlogodemo{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:1630px;
+    left:20px;
+}
+#footercontentaboutdemo{
+    position: absolute;
+    top:1745px;
+    left:150px;
+}
+#footerheaddemo{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:-5px
+}
+#footercontenttdemo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:-25px
+}
+#footerlogosoc{
+    position: absolute;
+    margin-right: 0px;
+    width:300px;
+    top:1870px;
+    left:20px;
+}
+#footercontentaboutsoc{
+    position: absolute;
+    top:2005px;
+    left:150px;
+}
+#footerheadsoc{
+    font-size:22px;
+    position: relative;
+    left:46px;
+    top:1950px
+}
+#footercontenttsoc{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    position: relative;
+    left:-85px;
+    width:350px;
+    top:0px
+}
